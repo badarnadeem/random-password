@@ -22,6 +22,7 @@
             "email": "eng.badar.nadeem@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "^10.4"
     }
