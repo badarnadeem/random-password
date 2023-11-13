@@ -1,4 +1,4 @@
-# Random Password Generator
+# Generate Random Passwords
 
 Generate random passwords of different types and lengths
 
@@ -6,18 +6,18 @@ Generate random passwords of different types and lengths
 
 Install the package using the following composer command
 
-`
+```
 
     composer require badarnadeem/random-password
 
 
-`
+```
 
 ## Usage
 
 Using the Password class to generate random passwords
 
-`
+```
 
     <?php
 
@@ -29,13 +29,13 @@ Using the Password class to generate random passwords
 
     ?>
 
-`
+```
 
 ## Set Password Length and Strength
 
 Pass in custom length and strength for your passwords. The default password length is set to 8 and default strength is set to strong.
 
-`
+```
 
     <?php
 
@@ -50,13 +50,13 @@ Pass in custom length and strength for your passwords. The default password leng
     ?>
 
 
-`
+```
 
 ## Password Strength Options
 
 The following 3 options are available for password strength
 
-`
+```
 
     <?php
 
@@ -69,4 +69,4 @@ The following 3 options are available for password strength
     ?>
 
 
-`
+```
