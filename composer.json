@@ -1,0 +1,28 @@
+{
+    "name": "badarnadeem/random-password",
+    "description": "Generate random passwords of different types and lengths",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "require": {
+        "php": ">=8.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BadarNadeem\\RandomPassword\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BadarNadeem\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Badar Nadeem",
+            "email": "eng.badar.nadeem@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    }
+}
