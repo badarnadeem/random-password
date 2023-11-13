@@ -8,7 +8,7 @@ Install the package using the following composer command
 
 ```
 
-    composer require badarnadeem/random-password
+composer require badarnadeem/random-password
 
 
 ```
