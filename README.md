@@ -62,9 +62,9 @@ The following 3 options are available for password strength
 
         use BadarNadeem\RandomPassword\PasswordStrength;
 
-        PasswordStrength::STRONG
-        PasswordStrength::MEDIUM
-        PasswordStrength::WEAK
+        PasswordStrength::STRONG;
+        PasswordStrength::MEDIUM;
+        PasswordStrength::WEAK;
 
     ?>
 
