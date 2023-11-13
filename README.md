@@ -7,10 +7,7 @@ Generate random passwords of different types and lengths
 Install the package using the following composer command
 
 ```
-
 composer require badarnadeem/random-password
-
-
 ```
 
 ## Usage
